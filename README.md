@@ -20,3 +20,18 @@ Die folgenden trainierten Modelle liegen im Repository:
 - `dt_model.pkl`: Trainiertes Decision Tree Modell
 - `xgb_model.pkl`: Trainiertes XGBoost Modell
 
+## Datensatzbeschreibung
+
+### 1. `df13_all_dataset_new_feature_engineering.parquet`
+- Vollständiger Datensatz mit allen Originalzeilen (inkl. 39.419 Zeilen mit fehlendem `deliveryDate`)
+- Diese fehlenden Werte wurden **behandelt** 
+- Alle neuen Features sind enthalten
+
+### 2. `df_without_missing_deliverydate_with_all_features.parquet`
+- Variante des Datensatzes, bei dem alle **39.419 Zeilen mit fehlendem `deliveryDate` entfernt** wurden
+- Enthält alle neuen Features
+
+
+### 3. `orders_class2_with_all_feature.parquet`
+- Der **Test-/Klassifizierungsdatensatz** mit denselben Features wie im Training
+- Wird verwendet zur Vorhersage und externen Modellbewertung
