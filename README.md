@@ -1,4 +1,4 @@
-# Bachelorarbeit Code – Khaled El-Dakhakhny
+# Code – Khaled El-Dakhakhny
 
 Dies ist der Quellcode zu meiner Bachelorarbeit. Der Code darf genutzt und angepasst werden, 
 sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt wird.
