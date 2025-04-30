@@ -1,4 +1,6 @@
-# Code – Khaled El-Dakhakhny
+# Code für Data Mining-Algorithmen und Feature
+Engineering zur Vorhersage von Retouren im 
+Onlinehandel – Khaled El-Dakhakhny
 
 Dies ist der Quellcode zu meiner Abschlussarbeit. Der Code darf genutzt und angepasst werden, 
 sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt wird.
