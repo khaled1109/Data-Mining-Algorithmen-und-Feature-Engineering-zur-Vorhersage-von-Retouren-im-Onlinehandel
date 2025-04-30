@@ -1,6 +1,6 @@
 # Code für Data Mining-Algorithmen und Feature Engineering zur Vorhersage von Retouren im  Onlinehandel – Khaled El-Dakhakhny
 
-Dies ist der Quellcode zu meiner Abschlussarbeit. Der Code darf genutzt und angepasst werden, 
+Dies ist der Quellcode. Der Code darf genutzt und angepasst werden, 
 sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt wird.
 
 ## Lizenz
@@ -11,7 +11,7 @@ Mehr Informationen: [https://creativecommons.org/licenses/by-nc/4.0/](https://cr
 
 ## Notebook
 
-Das Colab-Notebook zur Bachelorarbeit befindet sich hier:  
+Das Colab-Notebook befindet sich hier:  
 https://colab.research.google.com/drive/1e-3MJ4v09tG_aLd7T0dPnTTeR6TCAmAc
 
 ## Modelle
