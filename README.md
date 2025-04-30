@@ -12,3 +12,11 @@ Mehr Informationen: [https://creativecommons.org/licenses/by-nc/4.0/](https://cr
 
 Das Colab-Notebook zur Bachelorarbeit befindet sich hier:  
 https://colab.research.google.com/drive/1e-3MJ4v09tG_aLd7T0dPnTTeR6TCAmAc
+
+## Modelle
+
+Die folgenden trainierten Modelle liegen im Repository:
+
+- `dt_model.pkl`: Trainiertes Decision Tree Modell
+- `xgb_model.pkl`: Trainiertes XGBoost Modell
+
