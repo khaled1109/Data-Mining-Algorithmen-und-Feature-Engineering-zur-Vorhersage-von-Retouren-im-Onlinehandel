@@ -1,14 +1,13 @@
 # Code – Khaled El-Dakhakhny
 
-Dies ist der Quellcode zu meiner Bachelorarbeit. Der Code darf genutzt und angepasst werden, 
+Dies ist der Quellcode zu meiner Abschlussarbeit. Der Code darf genutzt und angepasst werden, 
 sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt wird.
 
 ## Lizenz
 
-Dieses Projekt (Code, Datenaufbereitung, Modelle) wurde von **Khaled El-Dakhakhny** im Rahmen seiner Bachelorarbeit erstellt.  
-Die Nutzung und Weiterentwicklung ist erlaubt – **nur nicht kommerziell**, und **mein Name muss genannt werden**.
+Dieser Code steht unter der **Creative Commons BY-NC 4.0 Lizenz**.  
+Mehr Informationen: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
-🔗 Lizenz: [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Notebook
 
