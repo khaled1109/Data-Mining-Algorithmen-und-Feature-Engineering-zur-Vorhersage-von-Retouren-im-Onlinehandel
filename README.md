@@ -5,8 +5,10 @@ sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt w
 
 ## Lizenz
 
-Dieser Code steht unter der **Creative Commons BY-NC 4.0 Lizenz**.  
-Mehr Informationen: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+Dieses Projekt (Code, Datenaufbereitung, Modelle) wurde von **Khaled El-Dakhakhny** im Rahmen seiner Bachelorarbeit erstellt.  
+Die Nutzung und Weiterentwicklung ist erlaubt – **nur nicht kommerziell**, und **mein Name muss genannt werden**.
+
+🔗 Lizenz: [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Notebook
 
