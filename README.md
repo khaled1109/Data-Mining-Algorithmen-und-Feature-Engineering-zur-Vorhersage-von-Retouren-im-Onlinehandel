@@ -1,7 +1,7 @@
 # Code für Data Mining-Algorithmen und Feature Engineering zur Vorhersage von Retouren im  Onlinehandel – Khaled El-Dakhakhny
 
 Dies ist der Quellcode. Der Code darf genutzt und angepasst werden, 
-sofern die Nutzung **nicht kommerziell** ist und mein Name als Urheber genannt wird.
+sofern die Nutzung **nicht kommerziell** ist und mein Name(Khaled El-Dakhakhny) als Urheber genannt wird.
 
 ## Lizenz
 
