@@ -18,8 +18,8 @@ https://colab.research.google.com/drive/1e-3MJ4v09tG_aLd7T0dPnTTeR6TCAmAc
 
 Die folgenden trainierten Modelle liegen im Repository:
 
-- `dt_model.pkl`: Trainiertes Decision Tree Modell
-- `xgb_model.pkl`: Trainiertes XGBoost Modell
+- `dt_model.pkl`: Trainiertes Decision Tree Modell (68,69 %)
+- `xgb_model.pkl`: Trainiertes XGBoost Modell (69,36 % )
 
 ## Datensatzbeschreibung
 
