@@ -36,3 +36,8 @@ Die folgenden trainierten Modelle liegen im Repository:
 ### 3. `orders_class2_with_all_feature.parquet`
 - Der **Test-/Klassifizierungsdatensatz** mit denselben Features wie im Training
 - Wird verwendet zur Vorhersage und externen Modellbewertung
+
+## Präsentation
+
+Im Repository ist außerdem die Abschlusspräsentation hinterlegt:  
+- `Präsentation.pptx`
